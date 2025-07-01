@@ -1,0 +1,15 @@
+{
+  "src/main-woP8WFF6.css": {
+    "file": "assets/main-woP8WFF6.css",
+    "src": "src/main-woP8WFF6.css"
+  },
+  "src/main.jsx": {
+    "file": "assets/main-DOSpYZLb.js",
+    "name": "main",
+    "src": "src/main.jsx",
+    "isEntry": true,
+    "css": [
+      "assets/main-woP8WFF6.css"
+    ]
+  }
+}
